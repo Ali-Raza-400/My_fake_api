@@ -1,0 +1,3 @@
+ {/* npm install -g json-server for installing globally
+json-server --watch db.json   for running terminal
+json-server --watch db.json --port 3500       for own choice port*/}

@@ -1,0 +1,40 @@
+{
+    "product":[
+        {
+            "id":1,
+            "name":"hot 6 pro",
+            "color":"golden",
+            "price":25000,
+            "category":"Mobile",
+            "brand":"infinix",
+            "photo":"https://www.gizbot.com/images/2018-07/infinix-hot-6-pro_1531389088150.jpg"
+        },
+        {
+            "id":2,
+            "name":"toshiba",
+            "color":"gray", 
+            "price":48000,
+            "category":"Laptop",
+            "brand":"Toshiba",
+            "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoAo4nipMfxK5T4LnK3KMfMmTMmBklCFKgQA&usqp=CAU"
+        },
+        {
+            "id":3,
+            "name":"T-Shirt",
+            "color":"White",
+            "price":1000,
+            "category":"cloths",
+            "brand":"Cloths",
+            "photo":"https://media.istockphoto.com/vectors/blank-white-tshirt-template-front-and-back-view-vector-id1304992360?k=20&m=1304992360&s=612x612&w=0&h=ofeF5D7vrrlqoZ9XQ_dx3NWBp2eJufndVKDZSghBXiQ="
+        },
+        {
+            "id":4,
+            "name":"Shoes",
+            "color":"black",
+            "price":2500,
+            "category":"cloths",
+            "brand":"cloths",
+            "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvEmT-ZUR5e1BelQN8dMqa3ba-16xE1_0Egr5aq6WD&s"
+        }
+    ]
+}
